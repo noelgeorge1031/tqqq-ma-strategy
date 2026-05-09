@@ -30,7 +30,7 @@ import matplotlib.ticker
 from matplotlib.colors import LinearSegmentedColormap
 
 warnings.filterwarnings("ignore")
-
+os.makedirs("output", exist_ok=True)
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
