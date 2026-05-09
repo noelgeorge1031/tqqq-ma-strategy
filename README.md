@@ -1,6 +1,3 @@
-# tqqq-ma-strategy
-Systematic trading project using QQQ signals and TQQQ execution
-
 # TQQQ Moving Average Strategy
 
 This repository contains the Python code for my systematic trading strategy analysis of whether a moving average trend-following strategy using QQQ signals and TQQQ execution can outperform passive buy-and-hold benchmarks on a risk-adjusted basis.
