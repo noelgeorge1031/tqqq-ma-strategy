@@ -8,7 +8,7 @@ The strategy uses trend-following signals generated from QQQ and executes trades
 
 ## Main file
 
-- `TQQQ_MA_Strategy GB 2350.py` — main Python script for data download, signal generation, backtesting, parameter sweep, and chart creation
+- TQQQ_MA_Strategy_GB_2350.py — main Python script for data download, signal generation, backtesting, parameter sweep, and chart creation
 
 ## Strategy features
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Run the script with:
 
 ```bash
-python TQQQ_MA_Strategy-v3.py
+python TQQQ_MA_Strategy_GB_2350.py
 ```
 
 ## Expected output
